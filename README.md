@@ -36,5 +36,5 @@ The models were trained on the **Pima Indians Diabetes Dataset**, which includes
 
 ---
 
-📁 *Notebook:* [Diabetes_Prediction.ipynb](./Diabetes_Prediction.ipynb)  
+📁 *Notebook:* [ml-health-ai-sdg3.ipynb](./ml-health-ai-sdg3.ipynb)  
 📦 *Dataset:* [Pima Indians Diabetes Database on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
